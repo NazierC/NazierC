@@ -7,7 +7,7 @@ Here are some things you should know about me:
 - Pronouns: He/Him
 - Fun fact: I am a student!
 
-###🏆My Trophies!!
+### 🏆My Trophies!!
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=NazierC&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
