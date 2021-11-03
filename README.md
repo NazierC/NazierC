@@ -1,11 +1,11 @@
 ### Hi there 👋, I am Nazier!
 ***
-Here are some things you should know about me:
-⚒️ I am currently working on a messaging website! 
-👷👷 I’m looking for friends that want to help with my website!
-☎️ You can reach me on Discord at MaybeNazier#2795
-👌 Pronouns: He/Him
- Fun fact: I am a student!
+Here are some things you should know about me: <br>
+⚒️ I am currently working on a messaging website and a Cyptocurrency! <br>
+👷👷 I’m looking for friends that want to help with my projects!<br>
+☎️ You can reach me on Discord at MaybeNazier#2795<br>
+👌 Pronouns: He/Him<br>
+🎉 Fun fact: I am a student!<br>
 
 ### 🏆My Trophies!!
 <a href="https://github.com/ryo-ma/github-profile-trophy">
