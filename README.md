@@ -5,7 +5,6 @@ Here are some things you should know about me: <br>
 👷👷 I’m looking for friends that want to help with my projects!<br>
 ☎️ You can reach me on Discord at MaybeNazier#2795<br>
 👌 Pronouns: He/Him<br>
-🎉 Fun fact: I am a student!<br>
 
 ### 🏆My Trophies!!
 <a href="https://github.com/ryo-ma/github-profile-trophy">
