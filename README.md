@@ -8,13 +8,10 @@
 </a>
 
 ### 📊 GitHub Stats:
-![Nazier's github stats](https://github-readme-stats.vercel.app/api?username=NazierC&theme=radical&show_icons=true&count_private=true)
+![Nazier's github stats](https://github-readme-stats.vercel.app/api?username=NazierH&theme=radical&show_icons=true&count_private=true)
   
  
-![Nazier's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazierC&theme=solarized_dark)
-![Nazier's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazierC&theme=solarized_dark)
-![Nazier's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazierC&theme=solarized_dark)
+![Nazier's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazierH&theme=solarized_dark)
+![Nazier's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazierH&theme=solarized_dark)
+![Nazier's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazierH&theme=solarized_dark)
 
-<!--
-You should invest into Evergrow!
--->
