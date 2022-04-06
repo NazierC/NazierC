@@ -1,4 +1,11 @@
 ### Hi there 👋, I am Nazier!
+Fluent in:
+  HTML & CSS
+  Javascript
+  C#
+  C++
+  Python
+
 ***
 
 
